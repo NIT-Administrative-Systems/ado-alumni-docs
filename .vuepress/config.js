@@ -1,20 +1,15 @@
 module.exports = {
     title: 'ADO Alumni Docs',
-    description: '.',
+    description: 'EACD Enterprise Applications documentation site',
     dest: '.build/docs',
     base: '/ADO-Alumni-Docs/',
     head: [
         ['link', { href: 'https://common.northwestern.edu/v8/icons/favicon-16.png', rel: 'icon', sizes: '16x16', type: 'image/png' }],
         ['link', { href: 'https://common.northwestern.edu/v8/icons/favicon-32.png', rel: 'icon', sizes: '32x32', type: 'image/png' }],
     ],
-    plugins: [
-        ['@vuepress/search', {
-          searchMaxSuggestions: 10
-        }]
-    ],
 
     themeConfig: {
-        repo: 'NIT-Administrative-Systems/ado-alumni-docs',
+        repo: 'NIT-Administrative-Systems/ADO-Alumni-Docs',
         docsDir: '',
         docsBranch: 'main',
         editLinks: true,

@@ -6,7 +6,7 @@ This site is currently in development. Stay tuned for more updates.
 
 
 ## Configuration
-This site is built on [VuePress](https://vuepress.vuejs.org/guide/). Comprised primarily of markdown files, it's easy to modify and preview right on GitHub. 
+This site is built on [VuePress](https://vuepress.vuejs.org/guide/). Comprised primarily of markdown files, the site is easy to modify and preview right on GitHub.
 
 Once on the site itself, the fastest way to update is by clicking the 'Edit Page' link at the bottom of a page. This will bring you directly to GitHub with an editor open.
 
