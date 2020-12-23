@@ -7,6 +7,11 @@ module.exports = {
         ['link', { href: 'https://common.northwestern.edu/v8/icons/favicon-16.png', rel: 'icon', sizes: '16x16', type: 'image/png' }],
         ['link', { href: 'https://common.northwestern.edu/v8/icons/favicon-32.png', rel: 'icon', sizes: '32x32', type: 'image/png' }],
     ],
+    plugins: [
+        ['@vuepress/search', {
+          searchMaxSuggestions: 10
+        }]
+    ],
 
     themeConfig: {
         repo: 'NIT-Administrative-Systems/ado-alumni-docs',
