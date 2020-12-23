@@ -2,7 +2,7 @@ module.exports = {
     title: 'ADO Alumni Docs',
     description: 'EACD Enterprise Applications documentation site',
     dest: '.build/docs',
-    base: '/ADO-Alumni-Docs/',
+    base: '/ado-alumni-docs/',
     head: [
         ['link', { href: 'https://common.northwestern.edu/v8/icons/favicon-16.png', rel: 'icon', sizes: '16x16', type: 'image/png' }],
         ['link', { href: 'https://common.northwestern.edu/v8/icons/favicon-32.png', rel: 'icon', sizes: '32x32', type: 'image/png' }],
