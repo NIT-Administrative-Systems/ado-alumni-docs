@@ -2,9 +2,7 @@
 
 Welcome to the Northwestern IT Administrative Systems ADO Alumni documentation site.
 
-:::warning In Development
 This site is currently in development. Stay tuned for more updates.
-:::
 
 
 ## Configuration
