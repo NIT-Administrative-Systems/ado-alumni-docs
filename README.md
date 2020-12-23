@@ -28,5 +28,5 @@ For more involved changes, you can run a local copy of the website:
 3. Run the local copy in the terminal using:
 
     ```sh
-    yarn run docs:dev
+    yarn docs:dev
     ```
